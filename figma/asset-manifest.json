@@ -1,0 +1,1002 @@
+{
+  "$comment": "Generated from the Figma audit. key → /public/images/<key>.png. Run `npm run figma:export` with FIGMA_TOKEN set to download originals.",
+  "fileKey": "ApgT5BDBUGzJgYFXCSCC9F",
+  "fileName": "SOO Portfolio Website",
+  "imageRoot": "public/images",
+  "assets": {
+    "ai-brick/cover": {
+      "node": "3:4",
+      "frame": "Card / AI Brick Series",
+      "name": "Thumb",
+      "w": 284,
+      "h": 170
+    },
+    "travel-shorts/cover": {
+      "node": "3:34",
+      "frame": "Card / Travel Series",
+      "name": "Thumb",
+      "w": 284,
+      "h": 170
+    },
+    "ai-pets/cover": {
+      "node": "3:74",
+      "frame": "Card / AI Animal Series",
+      "name": "Thumb",
+      "w": 284,
+      "h": 170
+    },
+    "design-works/cover": {
+      "node": "22:3",
+      "frame": "Card / Design Works",
+      "name": "Thumb",
+      "w": 284,
+      "h": 170
+    },
+    "disability-english/cover": {
+      "node": "249:3",
+      "frame": "Card / Disability English Card News",
+      "name": "Thumb",
+      "w": 284,
+      "h": 170
+    },
+    "jeju-disability-sports/cover": {
+      "node": "252:3",
+      "frame": "Card / Jeju Disability Sports",
+      "name": "Thumb",
+      "w": 284,
+      "h": 170
+    },
+    "couple-english-conversation/cover": {
+      "node": "252:12",
+      "frame": "Card / English Conversation Series",
+      "name": "Thumb",
+      "w": 284,
+      "h": 170
+    },
+    "welfare-policy/cover": {
+      "node": "252:21",
+      "frame": "Card / Health and Policy",
+      "name": "Thumb",
+      "w": 284,
+      "h": 170
+    },
+    "queen-bee-syndrome/cover": {
+      "node": "266:3",
+      "frame": "Card / Queen Bee Syndrome Card News",
+      "name": "Thumb",
+      "w": 284,
+      "h": 170
+    },
+    "kuujjuaq-beanie-poster/cover": {
+      "node": "354:3",
+      "frame": "Card / Kuujjuaq Beanie Poster",
+      "name": "Thumb",
+      "w": 284,
+      "h": 170
+    },
+    "couple-counseling-channel-art/cover": {
+      "node": "354:12",
+      "frame": "Card / Couple Counseling Channel Art",
+      "name": "Thumb",
+      "w": 284,
+      "h": 170
+    },
+    "product-ad-motion/cover": {
+      "node": "363:71",
+      "frame": "Card / Product Ad Motion Graphics",
+      "name": "Thumb",
+      "w": 284,
+      "h": 170
+    },
+    "ai-brick/landmark": {
+      "node": "13:9",
+      "frame": "Project Detail - AI Brick Series",
+      "name": "LandmarkImage",
+      "w": 416,
+      "h": 340
+    },
+    "ai-brick/video-thumb": {
+      "node": "13:10",
+      "frame": "Project Detail - AI Brick Series",
+      "name": "VideoThumb",
+      "w": 416,
+      "h": 340
+    },
+    "ai-brick/lm-france": {
+      "node": "13:25",
+      "frame": "Project Detail - AI Brick Series",
+      "name": "lm-france",
+      "w": 130,
+      "h": 130
+    },
+    "ai-brick/lm-united-kingdom": {
+      "node": "13:28",
+      "frame": "Project Detail - AI Brick Series",
+      "name": "lm-united_kingdom",
+      "w": 130,
+      "h": 130
+    },
+    "ai-brick/lm-italy": {
+      "node": "13:31",
+      "frame": "Project Detail - AI Brick Series",
+      "name": "lm-italy",
+      "w": 130,
+      "h": 130
+    },
+    "ai-brick/lm-spain": {
+      "node": "13:34",
+      "frame": "Project Detail - AI Brick Series",
+      "name": "lm-spain",
+      "w": 130,
+      "h": 130
+    },
+    "ai-brick/lm-united-states": {
+      "node": "13:37",
+      "frame": "Project Detail - AI Brick Series",
+      "name": "lm-united_states",
+      "w": 130,
+      "h": 130
+    },
+    "ai-brick/lm-china": {
+      "node": "13:40",
+      "frame": "Project Detail - AI Brick Series",
+      "name": "lm-china",
+      "w": 130,
+      "h": 130
+    },
+    "ai-brick/lm-india": {
+      "node": "13:44",
+      "frame": "Project Detail - AI Brick Series",
+      "name": "lm-india",
+      "w": 130,
+      "h": 130
+    },
+    "ai-brick/lm-thailand": {
+      "node": "13:47",
+      "frame": "Project Detail - AI Brick Series",
+      "name": "lm-thailand",
+      "w": 130,
+      "h": 130
+    },
+    "ai-brick/lm-egypt": {
+      "node": "13:50",
+      "frame": "Project Detail - AI Brick Series",
+      "name": "lm-egypt",
+      "w": 130,
+      "h": 130
+    },
+    "ai-brick/lm-australia": {
+      "node": "13:53",
+      "frame": "Project Detail - AI Brick Series",
+      "name": "lm-australia",
+      "w": 130,
+      "h": 130
+    },
+    "ai-brick/lm-brazil": {
+      "node": "13:56",
+      "frame": "Project Detail - AI Brick Series",
+      "name": "lm-brazil",
+      "w": 130,
+      "h": 130
+    },
+    "ai-brick/lm-russia": {
+      "node": "13:59",
+      "frame": "Project Detail - AI Brick Series",
+      "name": "lm-russia",
+      "w": 130,
+      "h": 130
+    },
+    "star-cactus-fairies/group": {
+      "node": "8:9",
+      "frame": "Project Detail - Star Cactus Fairies",
+      "name": "GroupImage",
+      "w": 416,
+      "h": 340
+    },
+    "star-cactus-fairies/video-thumb": {
+      "node": "8:10",
+      "frame": "Project Detail - Star Cactus Fairies",
+      "name": "VideoThumb",
+      "w": 416,
+      "h": 340
+    },
+    "star-cactus-fairies/char-lumi": {
+      "node": "8:24",
+      "frame": "Project Detail - Star Cactus Fairies",
+      "name": "img-lumi",
+      "w": 130,
+      "h": 130
+    },
+    "star-cactus-fairies/char-nia": {
+      "node": "8:27",
+      "frame": "Project Detail - Star Cactus Fairies",
+      "name": "img-nia",
+      "w": 130,
+      "h": 130
+    },
+    "star-cactus-fairies/char-momo": {
+      "node": "8:30",
+      "frame": "Project Detail - Star Cactus Fairies",
+      "name": "img-momo",
+      "w": 130,
+      "h": 130
+    },
+    "star-cactus-fairies/char-pipi": {
+      "node": "8:33",
+      "frame": "Project Detail - Star Cactus Fairies",
+      "name": "img-pipi",
+      "w": 130,
+      "h": 130
+    },
+    "star-cactus-fairies/char-roro": {
+      "node": "8:36",
+      "frame": "Project Detail - Star Cactus Fairies",
+      "name": "img-roro",
+      "w": 130,
+      "h": 130
+    },
+    "star-cactus-fairies/char-vivi": {
+      "node": "8:39",
+      "frame": "Project Detail - Star Cactus Fairies",
+      "name": "img-vivi",
+      "w": 130,
+      "h": 130
+    },
+    "ai-pets/cat": {
+      "node": "17:9",
+      "frame": "Project Detail - AI Pets Series",
+      "name": "CatImage",
+      "w": 416,
+      "h": 340
+    },
+    "ai-pets/video-thumb": {
+      "node": "17:10",
+      "frame": "Project Detail - AI Pets Series",
+      "name": "VideoThumb",
+      "w": 416,
+      "h": 340
+    },
+    "ai-pets/cut-cat1": {
+      "node": "17:24",
+      "frame": "Project Detail - AI Pets Series",
+      "name": "cut-cat1",
+      "w": 130,
+      "h": 130
+    },
+    "ai-pets/cut-cat2": {
+      "node": "17:27",
+      "frame": "Project Detail - AI Pets Series",
+      "name": "cut-cat2",
+      "w": 130,
+      "h": 130
+    },
+    "ai-pets/cut-surf": {
+      "node": "17:30",
+      "frame": "Project Detail - AI Pets Series",
+      "name": "cut-surf",
+      "w": 130,
+      "h": 130
+    },
+    "ai-pets/cut-dance": {
+      "node": "17:33",
+      "frame": "Project Detail - AI Pets Series",
+      "name": "cut-dance",
+      "w": 130,
+      "h": 130
+    },
+    "ai-pets/cut-sunglasses": {
+      "node": "17:36",
+      "frame": "Project Detail - AI Pets Series",
+      "name": "cut-sunglasses",
+      "w": 130,
+      "h": 130
+    },
+    "ai-pets/cut-rocks": {
+      "node": "17:39",
+      "frame": "Project Detail - AI Pets Series",
+      "name": "cut-rocks",
+      "w": 130,
+      "h": 130
+    },
+    "travel-shorts/travel": {
+      "node": "19:9",
+      "frame": "Project Detail - Travel Series",
+      "name": "TravelImage",
+      "w": 416,
+      "h": 340
+    },
+    "travel-shorts/video-thumb": {
+      "node": "19:10",
+      "frame": "Project Detail - Travel Series",
+      "name": "VideoThumb",
+      "w": 416,
+      "h": 340
+    },
+    "travel-shorts/cut-niagara": {
+      "node": "19:25",
+      "frame": "Project Detail - Travel Series",
+      "name": "cut-niagara",
+      "w": 130,
+      "h": 130
+    },
+    "travel-shorts/cut-husky": {
+      "node": "19:28",
+      "frame": "Project Detail - Travel Series",
+      "name": "cut-husky",
+      "w": 130,
+      "h": 130
+    },
+    "travel-shorts/cut-kuujjuaq": {
+      "node": "19:31",
+      "frame": "Project Detail - Travel Series",
+      "name": "cut-kuujjuaq",
+      "w": 130,
+      "h": 130
+    },
+    "travel-shorts/cut-amed": {
+      "node": "19:34",
+      "frame": "Project Detail - Travel Series",
+      "name": "cut-amed",
+      "w": 130,
+      "h": 130
+    },
+    "travel-shorts/cut-batur": {
+      "node": "19:37",
+      "frame": "Project Detail - Travel Series",
+      "name": "cut-batur",
+      "w": 130,
+      "h": 130
+    },
+    "travel-shorts/cut-kintamani": {
+      "node": "19:40",
+      "frame": "Project Detail - Travel Series",
+      "name": "cut-kintamani",
+      "w": 130,
+      "h": 130
+    },
+    "design-works/media-m1": {
+      "node": "22:19",
+      "frame": "Project Detail - Design Works",
+      "name": "media-m1",
+      "w": 416,
+      "h": 340
+    },
+    "design-works/media-m2": {
+      "node": "22:20",
+      "frame": "Project Detail - Design Works",
+      "name": "media-m2",
+      "w": 416,
+      "h": 340
+    },
+    "hospital-selection/card-01": {
+      "node": "234:8",
+      "frame": "Project Detail - Hospital Selection Card News",
+      "name": "Card News 01",
+      "w": 280,
+      "h": 350
+    },
+    "hospital-selection/card-02": {
+      "node": "234:9",
+      "frame": "Project Detail - Hospital Selection Card News",
+      "name": "Card News 02",
+      "w": 280,
+      "h": 350
+    },
+    "hospital-selection/card-03": {
+      "node": "234:10",
+      "frame": "Project Detail - Hospital Selection Card News",
+      "name": "Card News 03",
+      "w": 280,
+      "h": 350
+    },
+    "hospital-selection/card-04": {
+      "node": "234:11",
+      "frame": "Project Detail - Hospital Selection Card News",
+      "name": "Card News 04",
+      "w": 280,
+      "h": 350
+    },
+    "hospital-selection/card-05": {
+      "node": "234:12",
+      "frame": "Project Detail - Hospital Selection Card News",
+      "name": "Card News 05",
+      "w": 280,
+      "h": 350
+    },
+    "hospital-selection/card-06": {
+      "node": "234:13",
+      "frame": "Project Detail - Hospital Selection Card News",
+      "name": "Card News 06",
+      "w": 280,
+      "h": 350
+    },
+    "hospital-selection/card-07": {
+      "node": "234:14",
+      "frame": "Project Detail - Hospital Selection Card News",
+      "name": "Card News 07",
+      "w": 280,
+      "h": 350
+    },
+    "hospital-selection/card-08": {
+      "node": "234:15",
+      "frame": "Project Detail - Hospital Selection Card News",
+      "name": "Card News 08",
+      "w": 280,
+      "h": 350
+    },
+    "hospital-selection/card-09": {
+      "node": "234:16",
+      "frame": "Project Detail - Hospital Selection Card News",
+      "name": "Card News 09",
+      "w": 280,
+      "h": 350
+    },
+    "disability-english/cover-01": {
+      "node": "245:8",
+      "frame": "Project Detail - Disability English Card News",
+      "name": "Cover 01",
+      "w": 210,
+      "h": 210
+    },
+    "disability-english/cover-02": {
+      "node": "245:9",
+      "frame": "Project Detail - Disability English Card News",
+      "name": "Cover 02",
+      "w": 210,
+      "h": 210
+    },
+    "disability-english/cover-03": {
+      "node": "245:10",
+      "frame": "Project Detail - Disability English Card News",
+      "name": "Cover 03",
+      "w": 210,
+      "h": 210
+    },
+    "disability-english/cover-04": {
+      "node": "245:11",
+      "frame": "Project Detail - Disability English Card News",
+      "name": "Cover 04",
+      "w": 210,
+      "h": 210
+    },
+    "disability-english/cover-05": {
+      "node": "245:12",
+      "frame": "Project Detail - Disability English Card News",
+      "name": "Cover 05",
+      "w": 210,
+      "h": 210
+    },
+    "disability-english/cover-06": {
+      "node": "245:13",
+      "frame": "Project Detail - Disability English Card News",
+      "name": "Cover 06",
+      "w": 210,
+      "h": 210
+    },
+    "disability-english/cover-07": {
+      "node": "245:14",
+      "frame": "Project Detail - Disability English Card News",
+      "name": "Cover 07",
+      "w": 210,
+      "h": 210
+    },
+    "disability-english/cover-08": {
+      "node": "245:15",
+      "frame": "Project Detail - Disability English Card News",
+      "name": "Cover 08",
+      "w": 210,
+      "h": 210
+    },
+    "disability-english/cover-09": {
+      "node": "245:16",
+      "frame": "Project Detail - Disability English Card News",
+      "name": "Cover 09",
+      "w": 210,
+      "h": 210
+    },
+    "disability-english/cover-10": {
+      "node": "245:17",
+      "frame": "Project Detail - Disability English Card News",
+      "name": "Cover 10",
+      "w": 210,
+      "h": 210
+    },
+    "disability-english/cover-11": {
+      "node": "245:18",
+      "frame": "Project Detail - Disability English Card News",
+      "name": "Cover 11",
+      "w": 210,
+      "h": 210
+    },
+    "disability-english/cover-12": {
+      "node": "245:19",
+      "frame": "Project Detail - Disability English Card News",
+      "name": "Cover 12",
+      "w": 210,
+      "h": 210
+    },
+    "disability-english/cover-13": {
+      "node": "245:20",
+      "frame": "Project Detail - Disability English Card News",
+      "name": "Cover 13",
+      "w": 210,
+      "h": 210
+    },
+    "disability-english/cover-14": {
+      "node": "245:21",
+      "frame": "Project Detail - Disability English Card News",
+      "name": "Cover 14",
+      "w": 210,
+      "h": 210
+    },
+    "queen-bee-syndrome/cover-01": {
+      "node": "256:8",
+      "frame": "Project Detail - Queen Bee Syndrome Card News",
+      "name": "Cover 01",
+      "w": 210,
+      "h": 210
+    },
+    "queen-bee-syndrome/cover-02": {
+      "node": "256:9",
+      "frame": "Project Detail - Queen Bee Syndrome Card News",
+      "name": "Cover 02",
+      "w": 210,
+      "h": 210
+    },
+    "queen-bee-syndrome/cover-03": {
+      "node": "256:10",
+      "frame": "Project Detail - Queen Bee Syndrome Card News",
+      "name": "Cover 03",
+      "w": 210,
+      "h": 210
+    },
+    "queen-bee-syndrome/cover-04": {
+      "node": "256:11",
+      "frame": "Project Detail - Queen Bee Syndrome Card News",
+      "name": "Cover 04",
+      "w": 210,
+      "h": 210
+    },
+    "queen-bee-syndrome/cover-05": {
+      "node": "256:12",
+      "frame": "Project Detail - Queen Bee Syndrome Card News",
+      "name": "Cover 05",
+      "w": 210,
+      "h": 210
+    },
+    "queen-bee-syndrome/cover-06": {
+      "node": "256:13",
+      "frame": "Project Detail - Queen Bee Syndrome Card News",
+      "name": "Cover 06",
+      "w": 210,
+      "h": 210
+    },
+    "queen-bee-syndrome/cover-07": {
+      "node": "256:14",
+      "frame": "Project Detail - Queen Bee Syndrome Card News",
+      "name": "Cover 07",
+      "w": 210,
+      "h": 210
+    },
+    "queen-bee-syndrome/cover-08": {
+      "node": "256:15",
+      "frame": "Project Detail - Queen Bee Syndrome Card News",
+      "name": "Cover 08",
+      "w": 210,
+      "h": 210
+    },
+    "queen-bee-syndrome/cover-09": {
+      "node": "256:16",
+      "frame": "Project Detail - Queen Bee Syndrome Card News",
+      "name": "Cover 09",
+      "w": 210,
+      "h": 210
+    },
+    "queen-bee-syndrome/cover-10": {
+      "node": "256:17",
+      "frame": "Project Detail - Queen Bee Syndrome Card News",
+      "name": "Cover 10",
+      "w": 210,
+      "h": 210
+    },
+    "jeju-disability-sports/cover-01": {
+      "node": "289:3",
+      "frame": "Project Detail - Jeju Disability Sports Card News",
+      "name": "Cover 01",
+      "w": 214,
+      "h": 120
+    },
+    "jeju-disability-sports/cover-02": {
+      "node": "289:4",
+      "frame": "Project Detail - Jeju Disability Sports Card News",
+      "name": "Cover 02",
+      "w": 214,
+      "h": 120
+    },
+    "jeju-disability-sports/cover-03": {
+      "node": "289:5",
+      "frame": "Project Detail - Jeju Disability Sports Card News",
+      "name": "Cover 03",
+      "w": 214,
+      "h": 120
+    },
+    "jeju-disability-sports/cover-04": {
+      "node": "289:6",
+      "frame": "Project Detail - Jeju Disability Sports Card News",
+      "name": "Cover 04",
+      "w": 214,
+      "h": 120
+    },
+    "jeju-disability-sports/cover-05": {
+      "node": "289:7",
+      "frame": "Project Detail - Jeju Disability Sports Card News",
+      "name": "Cover 05",
+      "w": 214,
+      "h": 120
+    },
+    "jeju-disability-sports/cover-06": {
+      "node": "289:8",
+      "frame": "Project Detail - Jeju Disability Sports Card News",
+      "name": "Cover 06",
+      "w": 214,
+      "h": 120
+    },
+    "jeju-disability-sports/cover-07": {
+      "node": "289:9",
+      "frame": "Project Detail - Jeju Disability Sports Card News",
+      "name": "Cover 07",
+      "w": 214,
+      "h": 120
+    },
+    "jeju-disability-sports/cover-08": {
+      "node": "289:10",
+      "frame": "Project Detail - Jeju Disability Sports Card News",
+      "name": "Cover 08",
+      "w": 214,
+      "h": 120
+    },
+    "jeju-disability-sports/cover-09": {
+      "node": "289:11",
+      "frame": "Project Detail - Jeju Disability Sports Card News",
+      "name": "Cover 09",
+      "w": 214,
+      "h": 120
+    },
+    "jeju-disability-sports/cover-10": {
+      "node": "289:12",
+      "frame": "Project Detail - Jeju Disability Sports Card News",
+      "name": "Cover 10",
+      "w": 214,
+      "h": 120
+    },
+    "jeju-disability-sports/cover-11": {
+      "node": "289:13",
+      "frame": "Project Detail - Jeju Disability Sports Card News",
+      "name": "Cover 11",
+      "w": 214,
+      "h": 120
+    },
+    "jeju-disability-sports/cover-12": {
+      "node": "289:14",
+      "frame": "Project Detail - Jeju Disability Sports Card News",
+      "name": "Cover 12",
+      "w": 214,
+      "h": 120
+    },
+    "welfare-policy/cover-01": {
+      "node": "289:16",
+      "frame": "Project Detail - Social Welfare Policy Card News",
+      "name": "Cover 01",
+      "w": 214,
+      "h": 120
+    },
+    "welfare-policy/cover-02": {
+      "node": "289:17",
+      "frame": "Project Detail - Social Welfare Policy Card News",
+      "name": "Cover 02",
+      "w": 214,
+      "h": 120
+    },
+    "welfare-policy/cover-03": {
+      "node": "289:18",
+      "frame": "Project Detail - Social Welfare Policy Card News",
+      "name": "Cover 03",
+      "w": 214,
+      "h": 120
+    },
+    "welfare-policy/cover-04": {
+      "node": "289:19",
+      "frame": "Project Detail - Social Welfare Policy Card News",
+      "name": "Cover 04",
+      "w": 214,
+      "h": 120
+    },
+    "advocacy-design/cover-01": {
+      "node": "289:21",
+      "frame": "Project Detail - Advocacy Design",
+      "name": "Cover 01",
+      "w": 214,
+      "h": 214
+    },
+    "advocacy-design/cover-02": {
+      "node": "289:22",
+      "frame": "Project Detail - Advocacy Design",
+      "name": "Cover 02",
+      "w": 214,
+      "h": 214
+    },
+    "advocacy-design/cover-03": {
+      "node": "289:23",
+      "frame": "Project Detail - Advocacy Design",
+      "name": "Cover 03",
+      "w": 214,
+      "h": 214
+    },
+    "advocacy-design/cover-04": {
+      "node": "289:24",
+      "frame": "Project Detail - Advocacy Design",
+      "name": "Cover 04",
+      "w": 214,
+      "h": 214
+    },
+    "couple-english-conversation/cover-01": {
+      "node": "306:8",
+      "frame": "Project Detail - Couple English Conversation Card News",
+      "name": "Cover 01",
+      "w": 214,
+      "h": 214
+    },
+    "couple-english-conversation/cover-02": {
+      "node": "306:9",
+      "frame": "Project Detail - Couple English Conversation Card News",
+      "name": "Cover 02",
+      "w": 214,
+      "h": 214
+    },
+    "couple-english-conversation/cover-03": {
+      "node": "306:10",
+      "frame": "Project Detail - Couple English Conversation Card News",
+      "name": "Cover 03",
+      "w": 214,
+      "h": 214
+    },
+    "couple-english-conversation/cover-04": {
+      "node": "306:11",
+      "frame": "Project Detail - Couple English Conversation Card News",
+      "name": "Cover 04",
+      "w": 214,
+      "h": 214
+    },
+    "couple-english-conversation/cover-05": {
+      "node": "306:12",
+      "frame": "Project Detail - Couple English Conversation Card News",
+      "name": "Cover 05",
+      "w": 214,
+      "h": 214
+    },
+    "couple-english-conversation/cover-06": {
+      "node": "306:13",
+      "frame": "Project Detail - Couple English Conversation Card News",
+      "name": "Cover 06",
+      "w": 214,
+      "h": 214
+    },
+    "couple-english-conversation/cover-07": {
+      "node": "306:14",
+      "frame": "Project Detail - Couple English Conversation Card News",
+      "name": "Cover 07",
+      "w": 214,
+      "h": 214
+    },
+    "couple-english-conversation/cover-08": {
+      "node": "306:15",
+      "frame": "Project Detail - Couple English Conversation Card News",
+      "name": "Cover 08",
+      "w": 214,
+      "h": 214
+    },
+    "najeonchilgi-cactus-girls/piece-01": {
+      "node": "320:8",
+      "frame": "Project Detail - Najeonchilgi Cactus Girls",
+      "name": "Piece 01",
+      "w": 290,
+      "h": 387
+    },
+    "najeonchilgi-cactus-girls/piece-02": {
+      "node": "320:10",
+      "frame": "Project Detail - Najeonchilgi Cactus Girls",
+      "name": "Piece 02",
+      "w": 290,
+      "h": 387
+    },
+    "najeonchilgi-cactus-girls/piece-03": {
+      "node": "320:12",
+      "frame": "Project Detail - Najeonchilgi Cactus Girls",
+      "name": "Piece 03",
+      "w": 290,
+      "h": 387
+    },
+    "najeonchilgi-cactus-girls/piece-04": {
+      "node": "320:14",
+      "frame": "Project Detail - Najeonchilgi Cactus Girls",
+      "name": "Piece 04",
+      "w": 290,
+      "h": 387
+    },
+    "najeonchilgi-cactus-girls/piece-05": {
+      "node": "320:16",
+      "frame": "Project Detail - Najeonchilgi Cactus Girls",
+      "name": "Piece 05",
+      "w": 290,
+      "h": 387
+    },
+    "najeonchilgi-cactus-girls/piece-06": {
+      "node": "320:18",
+      "frame": "Project Detail - Najeonchilgi Cactus Girls",
+      "name": "Piece 06",
+      "w": 290,
+      "h": 387
+    },
+    "cactus-girls-jeju-skate/shot-01": {
+      "node": "323:8",
+      "frame": "Project Detail - Cactus Girls Jeju Skate Series",
+      "name": "Shot 01",
+      "w": 290,
+      "h": 516
+    },
+    "cactus-girls-jeju-skate/shot-02": {
+      "node": "323:10",
+      "frame": "Project Detail - Cactus Girls Jeju Skate Series",
+      "name": "Shot 02",
+      "w": 290,
+      "h": 516
+    },
+    "cactus-girls-jeju-skate/shot-03": {
+      "node": "323:12",
+      "frame": "Project Detail - Cactus Girls Jeju Skate Series",
+      "name": "Shot 03",
+      "w": 290,
+      "h": 516
+    },
+    "cactus-girls-jeju-skate/shot-04": {
+      "node": "323:14",
+      "frame": "Project Detail - Cactus Girls Jeju Skate Series",
+      "name": "Shot 04",
+      "w": 290,
+      "h": 516
+    },
+    "cactus-girls-jeju-skate/shot-05": {
+      "node": "323:16",
+      "frame": "Project Detail - Cactus Girls Jeju Skate Series",
+      "name": "Shot 05",
+      "w": 290,
+      "h": 516
+    },
+    "cactus-girls-jeju-skate/shot-06": {
+      "node": "323:18",
+      "frame": "Project Detail - Cactus Girls Jeju Skate Series",
+      "name": "Shot 06",
+      "w": 290,
+      "h": 516
+    },
+    "cactus-girls-jeju-skate/strip": {
+      "node": "323:21",
+      "frame": "Project Detail - Cactus Girls Jeju Skate Series",
+      "name": "Compilation Strip",
+      "w": 900,
+      "h": 150
+    },
+    "kuujjuaq-beanie-poster/cover-01": {
+      "node": "340:8",
+      "frame": "Project Detail - Kuujjuaq Beanie Poster",
+      "name": "Cover 01",
+      "w": 214,
+      "h": 268
+    },
+    "kuujjuaq-beanie-poster/cover-02": {
+      "node": "340:9",
+      "frame": "Project Detail - Kuujjuaq Beanie Poster",
+      "name": "Cover 02",
+      "w": 214,
+      "h": 268
+    },
+    "kuujjuaq-beanie-poster/cover-03": {
+      "node": "340:10",
+      "frame": "Project Detail - Kuujjuaq Beanie Poster",
+      "name": "Cover 03",
+      "w": 214,
+      "h": 268
+    },
+    "kuujjuaq-beanie-poster/cover-04": {
+      "node": "340:11",
+      "frame": "Project Detail - Kuujjuaq Beanie Poster",
+      "name": "Cover 04",
+      "w": 214,
+      "h": 268
+    },
+    "couple-counseling-channel-art/banner": {
+      "node": "352:8",
+      "frame": "Project Detail - Couple Counseling Channel Art",
+      "name": "Cover 01 - Banner",
+      "w": 900,
+      "h": 506
+    },
+    "couple-counseling-channel-art/ep01": {
+      "node": "352:9",
+      "frame": "Project Detail - Couple Counseling Channel Art",
+      "name": "Cover 02 - EP01",
+      "w": 289,
+      "h": 163
+    },
+    "couple-counseling-channel-art/ep02": {
+      "node": "352:10",
+      "frame": "Project Detail - Couple Counseling Channel Art",
+      "name": "Cover 03 - EP02",
+      "w": 289,
+      "h": 163
+    },
+    "couple-counseling-channel-art/ep03": {
+      "node": "352:11",
+      "frame": "Project Detail - Couple Counseling Channel Art",
+      "name": "Cover 04 - EP03",
+      "w": 289,
+      "h": 163
+    },
+    "couple-counseling-channel-art/profile": {
+      "node": "352:12",
+      "frame": "Project Detail - Couple Counseling Channel Art",
+      "name": "Cover 05 - Profile",
+      "w": 214,
+      "h": 214
+    },
+    "product-ad-motion/strip": {
+      "node": "363:8",
+      "frame": "Project Detail - Product Ad Motion Graphics",
+      "name": "Cover 01 - Strip",
+      "w": 900,
+      "h": 266
+    },
+    "product-ad-motion/poster-01": {
+      "node": "363:58",
+      "frame": "Project Detail - Product Ad Motion Graphics",
+      "name": "Poster 01",
+      "w": 284,
+      "h": 505
+    },
+    "product-ad-motion/poster-02": {
+      "node": "363:60",
+      "frame": "Project Detail - Product Ad Motion Graphics",
+      "name": "Poster 02",
+      "w": 284,
+      "h": 505
+    },
+    "product-ad-motion/poster-03": {
+      "node": "363:62",
+      "frame": "Project Detail - Product Ad Motion Graphics",
+      "name": "Poster 03",
+      "w": 284,
+      "h": 505
+    },
+    "product-ad-motion/poster-04": {
+      "node": "363:64",
+      "frame": "Project Detail - Product Ad Motion Graphics",
+      "name": "Poster 04",
+      "w": 284,
+      "h": 505
+    },
+    "product-ad-motion/poster-05": {
+      "node": "363:66",
+      "frame": "Project Detail - Product Ad Motion Graphics",
+      "name": "Poster 05",
+      "w": 284,
+      "h": 505
+    },
+    "product-ad-motion/poster-06": {
+      "node": "363:68",
+      "frame": "Project Detail - Product Ad Motion Graphics",
+      "name": "Poster 06",
+      "w": 284,
+      "h": 505
+    }
+  }
+}

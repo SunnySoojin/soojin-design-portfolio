@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#c7def7"/><stop offset="0.5" stop-color="#e5e5fa"/><stop offset="1" stop-color="#f7f2ed"/></linearGradient></defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <circle cx="900" cy="150" r="110" fill="#fff" fill-opacity="0.7"/><circle cx="1060" cy="250" r="75" fill="#fff" fill-opacity="0.7"/><circle cx="760" cy="300" r="45" fill="#fff" fill-opacity="0.7"/>
+  <rect x="100" y="200" width="104" height="104" rx="8" fill="#fff" stroke="#e5e5e0"/>
+  <text x="152" y="247" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="700" fill="#1a1a1a">SOO</text>
+  <text x="152" y="280" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="10" letter-spacing="1.5" fill="#737373">ARTWORKS</text>
+  <text x="100" y="400" font-family="Inter, Arial, sans-serif" font-size="64" font-weight="700" fill="#1f1f1f">SOO ARTWORKS</text>
+  <text x="100" y="450" font-family="Inter, Arial, sans-serif" font-size="22" fill="#737373">Travel · AI Brick · AI Pets · Card News · Channel Art · Poster · Motion</text>
+</svg>

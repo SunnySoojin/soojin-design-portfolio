@@ -1,0 +1,174 @@
+@import 'tailwindcss';
+
+/* ------------------------------------------------------------------
+   Design tokens — extracted from the Figma file
+   "SOO Portfolio Website" (ApgT5BDBUGzJgYFXCSCC9F).
+   Edit here; Tailwind utilities (bg-paper, text-ink, text-accent, …)
+   are generated from these tokens.
+------------------------------------------------------------------- */
+@theme {
+  /* Surfaces */
+  --color-white: #ffffff;
+  --color-paper: #f8f7f3; /* detail-page background */
+  --color-callout: #f7f6f4; /* home callout box */
+  --color-tab: #f5f5f2; /* inactive filter tab */
+  --color-line: #e5e5e0; /* card / box border */
+  --color-line-soft: #ebe8e5; /* callout border */
+  --color-line-warm: #dbd6cc; /* card-news gallery border */
+  --color-divider: #d9d6d1;
+
+  /* Text */
+  --color-ink: #1f1f1f;
+  --color-ink-soft: #3d3d3d;
+  --color-ink-mid: #616161;
+  --color-muted: #737373;
+  --color-muted-soft: #8f8f8f;
+  --color-tab-text: #595959;
+
+  /* Accents */
+  --color-accent: #2f5692; /* case-study blue */
+  --color-link: #3366d9; /* underlined URLs */
+  --color-tag-a: #e8f0fc; /* first chip background */
+  --color-tag-b: #f2edf7; /* second chip background */
+  --color-tag-text: #4d5266;
+
+  /* Hero gradient stops */
+  --color-hero-from: #c7def7;
+  --color-hero-via: #e5e5fa;
+  --color-hero-to: #f7f2ed;
+
+  /* Type */
+  --font-sans: 'Inter', 'Gothic A1', 'Apple SD Gothic Neo', 'Malgun Gothic', system-ui, sans-serif;
+  --font-kr: 'Gothic A1', 'Inter', 'Apple SD Gothic Neo', 'Malgun Gothic', system-ui, sans-serif;
+
+  --ease-soft: cubic-bezier(0.22, 1, 0.36, 1);
+  --shadow-card: 0px 1px 4px 0px rgba(0, 0, 0, 0.05);
+  --shadow-logo: 0px 2px 8px 0px rgba(0, 0, 0, 0.08);
+  --spacing-gutter: clamp(1rem, 4vw, 2.5rem);
+}
+
+/* ------------------------------------------------------------------
+   Base
+------------------------------------------------------------------- */
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    scroll-behavior: smooth;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+
+  body {
+    font-family: var(--font-kr);
+    line-height: 1.6;
+    word-break: keep-all;
+    overflow-wrap: anywhere;
+    background-color: var(--color-white);
+    color: var(--color-ink);
+    font-feature-settings: 'kern';
+  }
+
+  :lang(en) body,
+  body:lang(en) {
+    font-family: var(--font-sans);
+  }
+
+  ::selection {
+    background: var(--color-accent);
+    color: #fff;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-accent);
+    outline-offset: 3px;
+    border-radius: 4px;
+  }
+
+  img,
+  video {
+    display: block;
+    max-width: 100%;
+  }
+}
+
+/* ------------------------------------------------------------------
+   Utilities
+------------------------------------------------------------------- */
+
+/* 900px content column centred like the Figma frame (270px side margins at 1440) */
+@utility container-page {
+  width: 100%;
+  max-width: calc(900px + 2 * var(--spacing-gutter));
+  margin-inline: auto;
+  padding-inline: var(--spacing-gutter);
+}
+
+/* White rounded box used by every detail-page section */
+@utility box {
+  background: var(--color-white);
+  border: 1px solid var(--color-line);
+  border-radius: 10px;
+  box-shadow: var(--shadow-card);
+}
+
+@utility box-flat {
+  background: var(--color-white);
+  border-radius: 8px;
+}
+
+@utility label-accent {
+  color: var(--color-accent);
+  font-size: 0.9375rem;
+  font-weight: 600;
+}
+
+@utility sr-only-focusable {
+  position: absolute;
+  left: -9999px;
+  &:focus {
+    position: fixed;
+    left: 1rem;
+    top: 1rem;
+    z-index: 100;
+    padding: 0.75rem 1rem;
+    background: var(--color-ink);
+    color: #fff;
+    border-radius: 6px;
+  }
+}
+
+@utility img-skeleton {
+  background: linear-gradient(100deg, #f1efea 30%, #e6e3dd 50%, #f1efea 70%);
+  background-size: 200% 100%;
+  animation: shimmer 1.6s ease-in-out infinite;
+}
+
+@keyframes shimmer {
+  from {
+    background-position: 200% 0;
+  }
+  to {
+    background-position: -200% 0;
+  }
+}
+
+/* Blurred white blobs on the hero cover (Figma ellipses 1:4 – 1:8) */
+.hero-blob {
+  position: absolute;
+  border-radius: 9999px;
+  background: rgba(255, 255, 255, 0.75);
+  filter: blur(18px);
+  pointer-events: none;
+}
